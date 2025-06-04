@@ -317,4 +317,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 If you like this project, don’t forget to ⭐️ the repo!
 
-> ⚙️ Made with ❤️ by **DANUKA DISSANAYAKA**🔥
+> ⚙️ Made with ❤️ by **Yuki**🔥
